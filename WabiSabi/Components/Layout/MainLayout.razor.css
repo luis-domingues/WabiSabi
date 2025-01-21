@@ -2,6 +2,12 @@
     position: relative;
     display: flex;
     flex-direction: column;
+    background-image: url("https://nocoastsushi.com/wp-content/uploads/2019/11/83236373_m.jpg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 main {
