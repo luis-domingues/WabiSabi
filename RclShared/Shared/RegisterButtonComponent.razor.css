@@ -1,0 +1,9 @@
+.btn.custom-btn {
+    background-color: #EB5E28;
+    border-color: #EB5E28;
+    color: #252422;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
