@@ -1,6 +1,15 @@
-<h3>Utilizando a HomeComponent</h3>
-<p>@MessageBody</p>
-
-@code {
-    [Parameter] public string MessageBody { get; set; }
-}
+<div class="container d-flex flex-column justify-content-between vh-100 text-start">
+    <div class="header mt-5">
+        <h1>WABISABI</h1>
+    </div>
+    <div class="footer w-100">
+        <div class="text mb-1 justify-content-center text-start">
+            <h2 class="subtitle">Saboreie cada momento</h2>
+            <p class="paragraph">PEÇA UM JAPA JÁ!</p>
+        </div>
+        <div class="buttons d-flex flex-wrap justify-content-center gap-3 mb-5">
+            <LoginButtonComponent />
+            <RegisterButtonComponent />
+        </div>
+    </div>
+</div>
