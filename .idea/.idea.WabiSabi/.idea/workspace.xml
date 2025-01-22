@@ -9,15 +9,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f996f59a-823a-4e8c-8943-08679f29c059" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/RclShared/Shared/HomeComponent.razor.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WabiSabi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WabiSabi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WabiSabi.sln" beforeDir="false" afterPath="$PROJECT_DIR$/WabiSabi.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WabiSabi/Components/Layout/MainLayout.razor" beforeDir="false" afterPath="$PROJECT_DIR$/WabiSabi/Components/Layout/MainLayout.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RclShared/Shared/HomeComponent.razor" beforeDir="false" afterPath="$PROJECT_DIR$/RclShared/Shared/HomeComponent.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RclShared/Shared/HomeComponent.razor.css" beforeDir="false" afterPath="$PROJECT_DIR$/RclShared/Shared/HomeComponent.razor.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WabiSabi/Components/Layout/MainLayout.razor.css" beforeDir="false" afterPath="$PROJECT_DIR$/WabiSabi/Components/Layout/MainLayout.razor.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WabiSabi/Components/Pages/Home.razor" beforeDir="false" afterPath="$PROJECT_DIR$/WabiSabi/Components/Pages/Home.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WabiSabi/Components/_Imports.razor" beforeDir="false" afterPath="$PROJECT_DIR$/WabiSabi/Components/_Imports.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WabiSabi/WabiSabi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WabiSabi/WabiSabi.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WabiSabi/wwwroot/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/WabiSabi/wwwroot/app.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +33,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c73b3c6c598640c592fd3c6fa226c286e90908/37/6c0b0159/ExceptionDispatchInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RclShared/Shared/HeaderComponent.razor" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WabiSabi/Components/Layout/MainLayout.razor" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WabiSabi/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Toolset" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2rtYrvwX0svVn43c0MuBdRavJ7W" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -58,6 +63,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "HotReloadSettingsPage",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -105,6 +111,9 @@
       <option name="presentableId" value="Default" />
       <updated>1737380065757</updated>
       <workItem from="1737380065895" duration="13366000" />
+      <workItem from="1737463633635" duration="9159000" />
+      <workItem from="1737543574236" duration="133000" />
+      <workItem from="1737543888147" duration="8198000" />
     </task>
     <servers />
   </component>
